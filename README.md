@@ -1,5 +1,5 @@
 # LongTextRetriver
-This is the official repo for [Long Text QA Matching Model Based on BiGRU–DAttention–DSSM](https://arxiv.org/abs/2304.06280](https://www.mdpi.com/2227-7390/9/10/1129).
+This is the official repo for [Long Text QA Matching Model Based on BiGRU–DAttention–DSSM](https://www.mdpi.com/2227-7390/9/10/1129).
 
 Code will be released soon!!!
 
