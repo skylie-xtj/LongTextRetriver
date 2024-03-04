@@ -23,8 +23,7 @@ If you use these resources in your research, please consider citing the followin
 	langid = {english},
 	note = {Number: 10
 Publisher: Multidisciplinary Digital Publishing Institute},
-	keywords = {\textit{{QA}} matching, {BiGRU}–Dattention–{DSSM}, {DSSM}, long text},
-	file = {Full Text PDF:D\:\\Zotero\\storage\\NR9PCMJP\\Chen和Xu - 2021 - Long Text QA Matching Model Based on BiGRU–DAttention–DSSM.pdf:application/pdf},
+	keywords = {\textit{{QA}} matching, {BiGRU}–Dattention–{DSSM}, {DSSM}, long text}
 }
 
 ```
