@@ -22,8 +22,7 @@ If you use these resources in your research, please consider citing the followin
 	date = {2021-01},
 	langid = {english},
 	note = {Number: 10
-Publisher: Multidisciplinary Digital Publishing Institute},
-	keywords = {\textit{{QA}} matching, {BiGRU}–Dattention–{DSSM}, {DSSM}, long text}
+Publisher: Multidisciplinary Digital Publishing Institute}
 }
 
 ```
